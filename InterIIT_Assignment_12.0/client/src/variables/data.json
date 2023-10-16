@@ -1,0 +1,112 @@
+[
+  {
+    "products": [
+      {
+        "status": "arrival",
+        "name": "Product 1",
+        "quantity": 10,
+        "arrival_date": "2023-10-17",
+        "dispatch_date": "2023-10-18"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "in-store",
+        "name": "Product 2",
+        "quantity": 5,
+        "arrival_date": "2023-10-19",
+        "dispatch_date": "2023-10-20"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "dispatch",
+        "name": "Product 3",
+        "quantity": 8,
+        "arrival_date": "2023-10-21",
+        "dispatch_date": "2023-10-22"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "arrival",
+        "name": "Product 4",
+        "quantity": 12,
+        "arrival_date": "2023-10-23",
+        "dispatch_date": "2023-10-24"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "in-store",
+        "name": "Product 5",
+        "quantity": 7,
+        "arrival_date": "2023-10-25",
+        "dispatch_date": "2023-10-26"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "dispatch",
+        "name": "Product 6",
+        "quantity": 4,
+        "arrival_date": "2023-10-27",
+        "dispatch_date": "2023-10-28"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "arrival",
+        "name": "Product 7",
+        "quantity": 9,
+        "arrival_date": "2023-10-29",
+        "dispatch_date": "2023-10-30"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "in-store",
+        "name": "Product 8",
+        "quantity": 6,
+        "arrival_date": "2023-10-31",
+        "dispatch_date": "2023-11-01"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "dispatch",
+        "name": "Product 9",
+        "quantity": 11,
+        "arrival_date": "2023-11-02",
+        "dispatch_date": "2023-11-03"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "status": "arrival",
+        "name": "Product 10",
+        "quantity": 15,
+        "arrival_date": "2023-11-04",
+        "dispatch_date": "2023-11-05"
+      }
+    ]
+  }
+]
